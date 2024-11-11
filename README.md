@@ -1,4 +1,6 @@
-# Kittygram — A Social Network for Sharing Photos of Beloved Pets
+# Kittygram - A Social Network for Sharing Photos of Beloved Pets
+
+[![Main Kittygram workflow](https://github.com/Akhmedkhanov-Gasan/kittygram_final/actions/workflows/main.yml/badge.svg)](https://github.com/Akhmedkhanov-Gasan/kittygram_final/actions/workflows/main.yml)
 
 ### Project Description
 Users can register, upload photos with descriptions, and view pets of other users.
